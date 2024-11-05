@@ -7,3 +7,5 @@ redis 发布订阅
 redis 复制(replica)
 redis 哨兵(sentinel)
 redis 集群(cluster)
+分布式锁
+21种锁
