@@ -9,3 +9,6 @@ redis 哨兵(sentinel)
 redis 集群(cluster)
 分布式锁
 21种锁
+MySQL 8.0.26 3306 密码abc123
+linux 密码123456
+redis密码123456
